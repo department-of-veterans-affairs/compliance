@@ -1,7 +1,6 @@
-# compliance
-VA OIT Compliance Tracking Repository
+### VA OIT Compliance Tracking Repository
 
-MVP Repo based on initial strawman groupings of a subset (design, engineering, and architecture (DEA)compliance epics, sub-epics and user stories, RE-organized as follows:
+- MVP Repo based on initial strawman groupings of a subset (design, engineering, and architecture (DEA)compliance epics, sub-epics and user stories, RE-organized as follows:
 
 1.	Architecture
  1.1.	DEA.02 Product Solution Architecture
@@ -78,6 +77,7 @@ MVP Repo based on initial strawman groupings of a subset (design, engineering, a
 5.9.	DEA.04.26 Programming Standards
 5.9.1.	DEA.04.26.02 Programming Standards
 5.9.2.	DEA.04.26.03 Test Driven Development
+
 
 
 
