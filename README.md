@@ -3,11 +3,10 @@ VA OIT Compliance Tracking Repository
 
 MVP Repo based on initial strawman groupings of a subset (design, engineering, and architecture (DEA)compliance epics, sub-epics and user stories, RE-organized as follows:
 
-1.	Architecture
-
-1.1.	DEA.02 Product Solution Architecture
-1.1.1.	DEA.02.01 Product Solution Architecture
-1.1.1.1.	DEA.02.01.01 Product Solution Architecture
+- 1.	Architecture
+- 1.1.	DEA.02 Product Solution Architecture
+- 1.1.1.	DEA.02.01 Product Solution Architecture
+- 1.1.1.1.	DEA.02.01.01 Product Solution Architecture
 1.2.	DEA.03 Business Architecture
 1.2.1.	DEA.03.01 Business Architecture
 1.2.2.	DEA.04.16 Enterprise Shared Services
